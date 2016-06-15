@@ -17,11 +17,5 @@ namespace NetCoders.SisAmigos.RestFul.Controllers
         {
             ClienteREP.Create(cliente);
         }
-
-        [HttpDelete]
-        public void Delete(int id)
-        {
-
-        }
     }
 }

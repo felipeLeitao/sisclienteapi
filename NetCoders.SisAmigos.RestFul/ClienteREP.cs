@@ -8,7 +8,7 @@ namespace NetCoders.SisAmigos.RestFul
 {
     public static class ClienteREP
     {
-        private static IList<ClienteEntity> _clientes = new List<ClienteEntity>;
+        private static IList<ClienteEntity> _clientes = new List<ClienteEntity>();
 
         private static Int32 _codigo = 0;
 

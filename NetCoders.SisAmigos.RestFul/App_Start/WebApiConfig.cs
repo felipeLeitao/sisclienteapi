@@ -11,6 +11,9 @@ namespace NetCoders.SisAmigos.RestFul
         {
             // Web API configuration and services
 
+            config.Formatters.Remove(config.Formatters.XmlFormatter);
+
+
             // Web API routes
             config.MapHttpAttributeRoutes();
 

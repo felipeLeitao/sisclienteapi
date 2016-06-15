@@ -1,0 +1,14 @@
+C:\Projects\NetCoders.SisAmigos.RestFul\NetCoders.SisAmigos.RestFul\obj\Release\NetCoders.SisAmigos.RestFul.csprojResolveAssemblyReference.cache
+C:\Projects\NetCoders.SisAmigos.RestFul\NetCoders.SisAmigos.RestFul\bin\NetCoders.SisAmigos.RestFul.dll.config
+C:\Projects\NetCoders.SisAmigos.RestFul\NetCoders.SisAmigos.RestFul\bin\NetCoders.SisAmigos.RestFul.dll
+C:\Projects\NetCoders.SisAmigos.RestFul\NetCoders.SisAmigos.RestFul\bin\NetCoders.SisAmigos.RestFul.pdb
+C:\Projects\NetCoders.SisAmigos.RestFul\NetCoders.SisAmigos.RestFul\bin\Newtonsoft.Json.dll
+C:\Projects\NetCoders.SisAmigos.RestFul\NetCoders.SisAmigos.RestFul\bin\System.Net.Http.Formatting.dll
+C:\Projects\NetCoders.SisAmigos.RestFul\NetCoders.SisAmigos.RestFul\bin\System.Web.Http.dll
+C:\Projects\NetCoders.SisAmigos.RestFul\NetCoders.SisAmigos.RestFul\bin\System.Web.Http.WebHost.dll
+C:\Projects\NetCoders.SisAmigos.RestFul\NetCoders.SisAmigos.RestFul\bin\Newtonsoft.Json.xml
+C:\Projects\NetCoders.SisAmigos.RestFul\NetCoders.SisAmigos.RestFul\bin\System.Net.Http.Formatting.xml
+C:\Projects\NetCoders.SisAmigos.RestFul\NetCoders.SisAmigos.RestFul\bin\System.Web.Http.xml
+C:\Projects\NetCoders.SisAmigos.RestFul\NetCoders.SisAmigos.RestFul\bin\System.Web.Http.WebHost.xml
+C:\Projects\NetCoders.SisAmigos.RestFul\NetCoders.SisAmigos.RestFul\obj\Release\NetCoders.SisAmigos.RestFul.dll
+C:\Projects\NetCoders.SisAmigos.RestFul\NetCoders.SisAmigos.RestFul\obj\Release\NetCoders.SisAmigos.RestFul.pdb
