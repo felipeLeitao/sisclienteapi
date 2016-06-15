@@ -10,7 +10,7 @@ namespace NetCoders.SisAmigos.RestFul
     {
         private static IList<ClienteEntity> _clientes = new List<ClienteEntity>();
 
-        private static Int32 _codigo = 0;
+        private static Int32 _codigo = 1;
 
         public static IList<ClienteEntity> GetAll()
         {
@@ -19,6 +19,7 @@ namespace NetCoders.SisAmigos.RestFul
 
         public static void Create(ClienteEntity cliente)
         {
+            cliente.Codigo = _codigo++;
             _clientes.Add(cliente);
         }
 
