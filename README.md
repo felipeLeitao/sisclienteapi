@@ -6,7 +6,7 @@ Web api que vai ser usado nas palestras sobre angular JS, o projeto contem basic
 
 #Listar
 
-Retorna todos os amigos cadastados.
+Retorna todos os clientes cadastados.
 
 url: /api/cliente
 method: GET
@@ -27,11 +27,17 @@ UF: "SP"
 
 #Cadastrar
 
-Cadastra o amigo enviado.
+Cadastra o cliente enviado.
 
 url: /api/amigo/cadastrar
 method: POST
 data: {
-    "nome" : "algum nome",
-    "email" : "algumemail@teste.com"
+Codigo: 1,
+Nome: "felipe",
+Email: "fesilva1@outlook.com.br",
+CEP: "03969000",
+Logradouro: "Rua Manoel Quirino de Mattos",
+Bairro: "Jardim Sapopemba",
+Cidade: "São Paulo",
+UF: "SP"
 }
