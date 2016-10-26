@@ -14,6 +14,7 @@ namespace NetCoders.SisAmigos.RestFul.Models
         [Required(ErrorMessage = "O nome é obrigatório.")]
         public String Nome { get; set; }
 
+        [Required(ErrorMessage = "O email é obrigatório.")]
         public String Email { get; set; }
 
         public String CEP { get; set; }
@@ -27,5 +28,7 @@ namespace NetCoders.SisAmigos.RestFul.Models
         public String UF { get; set; }
 
         public String Numero { get; set; }
+
+
     }
 }
