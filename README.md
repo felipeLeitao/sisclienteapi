@@ -14,9 +14,14 @@ method: GET
 Exemplo: 
 [
 {
-id: 1,
-nome: "felipe",
-email: "fesilva@Outlook.com.br"
+Codigo: 1,
+Nome: "felipe",
+Email: "fesilva1@outlook.com.br",
+CEP: "03969000",
+Logradouro: "Rua Manoel Quirino de Mattos",
+Bairro: "Jardim Sapopemba",
+Cidade: "São Paulo",
+UF: "SP"
 }
 ]
 
