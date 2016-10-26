@@ -11,3 +11,17 @@ C:\Projects\NetCoders.SisAmigos.RestFul\NetCoders.SisAmigos.RestFul\bin\System.W
 C:\Projects\NetCoders.SisAmigos.RestFul\NetCoders.SisAmigos.RestFul\bin\System.Web.Http.WebHost.xml
 C:\Projects\NetCoders.SisAmigos.RestFul\NetCoders.SisAmigos.RestFul\obj\Debug\NetCoders.SisAmigos.RestFul.dll
 C:\Projects\NetCoders.SisAmigos.RestFul\NetCoders.SisAmigos.RestFul\obj\Debug\NetCoders.SisAmigos.RestFul.pdb
+C:\projects\sisclienteapi\NetCoders.SisAmigos.RestFul\bin\NetCoders.SisAmigos.RestFul.dll.config
+C:\projects\sisclienteapi\NetCoders.SisAmigos.RestFul\bin\NetCoders.SisAmigos.RestFul.dll
+C:\projects\sisclienteapi\NetCoders.SisAmigos.RestFul\bin\NetCoders.SisAmigos.RestFul.pdb
+C:\projects\sisclienteapi\NetCoders.SisAmigos.RestFul\bin\Newtonsoft.Json.dll
+C:\projects\sisclienteapi\NetCoders.SisAmigos.RestFul\bin\System.Net.Http.Formatting.dll
+C:\projects\sisclienteapi\NetCoders.SisAmigos.RestFul\bin\System.Web.Http.dll
+C:\projects\sisclienteapi\NetCoders.SisAmigos.RestFul\bin\System.Web.Http.WebHost.dll
+C:\projects\sisclienteapi\NetCoders.SisAmigos.RestFul\bin\Newtonsoft.Json.xml
+C:\projects\sisclienteapi\NetCoders.SisAmigos.RestFul\bin\System.Net.Http.Formatting.xml
+C:\projects\sisclienteapi\NetCoders.SisAmigos.RestFul\bin\System.Web.Http.xml
+C:\projects\sisclienteapi\NetCoders.SisAmigos.RestFul\bin\System.Web.Http.WebHost.xml
+C:\projects\sisclienteapi\NetCoders.SisAmigos.RestFul\obj\Debug\NetCoders.SisAmigos.RestFul.csprojResolveAssemblyReference.cache
+C:\projects\sisclienteapi\NetCoders.SisAmigos.RestFul\obj\Debug\NetCoders.SisAmigos.RestFul.dll
+C:\projects\sisclienteapi\NetCoders.SisAmigos.RestFul\obj\Debug\NetCoders.SisAmigos.RestFul.pdb
