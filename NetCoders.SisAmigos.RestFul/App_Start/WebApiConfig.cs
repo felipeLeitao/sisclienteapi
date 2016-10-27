@@ -9,6 +9,9 @@ namespace NetCoders.SisAmigos.RestFul
     {
         public static void Register(HttpConfiguration config)
         {
+            //libera o cors
+            config.EnableCors();
+
             // Web API configuration and services
 
             config.Formatters.Remove(config.Formatters.XmlFormatter);
